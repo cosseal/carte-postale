@@ -1,0 +1,139 @@
+html
+{
+    margin:0;
+    padding: 0;
+    width: auto;
+}
+
+body
+{
+    margin:100px;
+    padding: auto;
+    width: auto;
+}
+
+#carte
+{
+    border: 1px solid black;
+    padding: 1px;
+    position: fixed;
+    width: 900px;
+    height: 500px;
+    min-width: 700px;
+}
+#timbre
+{
+    border: 1px solid black;
+    width: 100px;
+    height: 120px;
+    position: fixed;
+    vertical-align: top;
+    margin-left: 785px;
+    margin-top: 15px;
+
+}
+
+#texte
+{
+    margin: 10px;
+    width: 320px;
+    position: fixed;
+    margin-top: 175px;
+    margin-left: 65px;
+    padding: 2px;
+    text-align: justify;
+}
+
+p
+{
+    font-family: "Book Antiqua", sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+#separation
+{
+    width: 2px;
+    height: 350px;
+    border-left: 1px solid black;
+    position: fixed;
+    margin-left: 500px;
+    margin-top: 120px;
+}
+
+#adresse
+{
+    width: 250px;
+    height: 250px;
+    position: fixed;
+    margin-top: 280px;
+    margin-left: 560px;
+
+}
+
+.barre
+{
+    width: 265px;
+    height: 2px;
+    background-color: black;
+}
+
+#b2
+{
+    margin-top: 35px;
+    position: fixed;
+}
+
+#b3
+{
+    margin-top: 70px;
+    position: fixed;
+}
+.cp
+{
+    width: 12px;
+    height: 15px;
+    border: black 1px solid;
+    position: fixed;
+    margin-top: 105px;
+}
+#cp2
+{
+    position: fixed;
+    margin-top: -1px;
+    margin-left: 20px;
+}
+
+#cp3
+{
+    position: fixed;
+    margin-top: -1px;
+    margin-left: 40px;
+}
+
+#cp4
+{
+    position: fixed;
+    margin-top: -1px;
+    margin-left: 60px;
+}
+
+#cp5
+{
+    position: fixed;
+    margin-top: -1px;
+    margin-left: 80px;
+}
+
+#petiteb
+{
+    position: fixed;
+    margin-top: 120px;
+    width: 150px;
+    margin-left: 115px;
+}
+
+
+
+
+
